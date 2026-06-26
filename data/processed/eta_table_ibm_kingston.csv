@@ -1,0 +1,5 @@
+pair,eta,sigma_eta,qCMR_dB,decision,gate_failed
+"149,150",0.7,0.06,3.7,BYPASS_DFS,Gate 1
+"50,51",0.42,0.04,-1.4,BYPASS_DFS,Gate 1
+"3,16",0.45,0.05,-1.1,BYPASS_DFS,Gate 1
+"125,126",0.44,0.1,-1.2,BYPASS_DFS,Gate 1

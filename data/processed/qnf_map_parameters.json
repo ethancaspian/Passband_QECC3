@@ -1,0 +1,9 @@
+{
+  "resource_model": "matched d=3 dual-rail DFS layer versus budget-matched d=5 standard baseline; manuscript-level illustrative simulation model",
+  "eta_threshold": 0.95,
+  "p2q_threshold": 0.001,
+  "qCMR_threshold_dB": 12.8,
+  "qnf_map_model": "log10(QNF) = 18.0*(0.95-eta) + 0.75*log10(p2q/0.001)",
+  "figure_note": "Processed plotting parameters used to reproduce manuscript passband figures. Replace with final exported simulation data for archival journal release if available.",
+  "patent_application": "U.S. Patent Application No. 19/717,655"
+}
